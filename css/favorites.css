@@ -1,0 +1,19 @@
+#favorite-fact{
+font-size: 1rem;
+}
+
+.main-favorites{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.favorites-container{
+    font-size: 0.5rem;
+    border: solid black 1px;
+    border: show;
+}
+
+p{
+    font-size: 1rem;
+}
