@@ -1,12 +1,11 @@
-function newFact() {
-    fetch('https://uselessfacts.jsph.pl/api/v2/facts/random')
-        .then(response => response.json())
-        .then(data => {
-
-            const result = document.getElementById('curious-fact');
-            result.textContent = data.text;
-        })
-        .catch(error => {
-            console.log('Error:', error);
-        });
-}
+async function newFact() {
+    try {
+      const response = await fetch('https://uselessfacts.jsph.pl/api/v2/facts/random');
+      const data = await response.json();
+      
+      document.getElementById('curious-fact').textContent = data.text;
+    } catch (error) {
+      console.log('Error:', error);
+    }
+  }
+  
