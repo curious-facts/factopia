@@ -20,16 +20,10 @@
     <main>
       <section>
         <h1>Did you know?</h1>
-        <p>
-          A person cannot taste food unless it is mixed with saliva. For
-          example, if a strong-tasting substance like salt is placed on a dry
-          tongue, the taste buds will not be able to taste it. As soon as a drop
-          of saliva is added and the salt is dissolved, however, a definite
-          taste sensation results. This is true for all foods.
-        </p>
+        <p id="curious-fact">Click on new fact and get a lot of usseles information</p>
 
         <div class="buttons">
-          <button id="new-fact">New curious fact</button>
+          <button onclick="newFact()" id="new-fact">New fact</button>
           <button id="add-favorite">
             Add to your favorites<img class="icon-main"
               src="/img/purple-star-icon.svg"
@@ -41,7 +35,8 @@
     </main>
 
     <footer>
-      <p>Desarrollado por Marga Mbande y Jeaneth Sánchez</p>
+      <p class="copyright">Desarrollado por Marga Mbande y Jeaneth Sánchez</p>
     </footer>
+    <script src="/javascript/newFact.js"></script>
   </body>
 </html>
