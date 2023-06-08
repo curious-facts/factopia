@@ -43,7 +43,10 @@ header,footer{
 
 }
 
+
+
 a{
+    
     text-decoration: none;
     color: var(--withe);
     font-family: 'Poppins', sans-serif;
@@ -51,14 +54,19 @@ a{
 }
 
 main{
+    
+    width: 100%;
+    height: auto;
+    padding: 7%;
     display: flex;
-    flex-direction: column;
     align-items: center;
-    padding: 10vw;
-    gap: 2rem;
-    flex-grow: 1;
+    justify-content: center;
+    height: 70vh;
+  
+    
     
 }
+
 h1{
     font-size: 2.5rem;
 }
@@ -111,14 +119,14 @@ p{
     gap: 0.5rem;
 }
 
-:hover #add-favorite{
+#add-favorite:hover {
     background-color: #e0e0fb;
     border: none;
 }
 
 
 .logo{
-    width: 10vw;
+    width: 15vw;
 }
 
 .icon-header, .icon-main{
@@ -127,6 +135,7 @@ p{
 
 
 footer{
+    margin-top: 50px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -138,6 +147,7 @@ footer{
 
 .copyright{
     font-size: 0.8rem;
+    border: none;
 }
 
 
@@ -148,11 +158,13 @@ footer{
     }
 
     .logo{
-        width: 40%;
+        margin-top: 0.4rem;
+        width: 35vw;
     }
 
     main{
         padding: 2.5rem 0 0;
+        height: 70vh;
 
         
     }
