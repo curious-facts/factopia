@@ -20,5 +20,5 @@ function displayFavorites() {
 // window.addEventListener("beforeunload", clearFavorites);
 
 // function clearFavorites() {
-//   localStorage.removeItem("favorites");
+// localStorage.removeItem("favorites");
 // }
