@@ -1,0 +1,18 @@
+{
+  "name": "factopia",
+  "version": "1.0.0",
+  "description": "test factopia",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "factopia",
+    "test"
+  ],
+  "author": "factopia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
