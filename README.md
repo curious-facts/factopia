@@ -1,2 +1,3 @@
 # factopia
-Página web que llame a una API externa y nos devuelva hechos curiosos de manera aleatoria.  
+Hemos creado una página web que llama a una API externa, que nos devuelve textos sobre hechos curiosos de manera aleatoria.  
+
