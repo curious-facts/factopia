@@ -30,7 +30,10 @@ header,footer{
 
 }
 
+#my-favorites :hover{
 
+    background-color: rgba(255, 255, 255, 0.916);
+}
 
 a{
     
@@ -92,6 +95,11 @@ h1{
     
 }
 
+#new-fact:hover {
+   background-color: #C3C3F2;
+
+    
+}
 
 #add-favorite{
     font-family: 'Poppins', sans-serif;

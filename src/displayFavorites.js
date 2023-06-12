@@ -17,8 +17,8 @@ function displayFavorites() {
   }
 }
 
-// window.addEventListener("beforeunload", clearFavorites);
+window.addEventListener("beforeunload", clearFavorites);
 
-// function clearFavorites() {
-// localStorage.removeItem("favorites");
-// }
+function clearFavorites() {
+localStorage.removeItem("favorites");
+}
