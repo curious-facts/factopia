@@ -20,6 +20,8 @@ function saveFact() {
 
   // Guardar el array de favoritos actualizado en el almacenamiento local
   localStorage.setItem("favorites", JSON.stringify(favorites));
+  document.getElementById("popup").style.display = "none";
+
 
   // Mostrar el nuevo favorito en la página actual
   const favoritesContainer = document.getElementById("favorites-container");

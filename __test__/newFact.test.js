@@ -1,5 +1,3 @@
-'use strict';
-
 import { newFact } from '../src/newFact';
 
 import { JSDOM } from 'jsdom';
