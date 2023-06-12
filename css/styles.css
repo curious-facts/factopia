@@ -1,11 +1,12 @@
 @import url(home.css);
 @import url(favorites.css);
+@import url(modal.css);
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 
 :root{
     --bg-color:#eef1ff;
     --dark-purple:#b1b2ff;
-    --font-color: #262525;
+    --font-color: #262525∑;
     --withe: #ffffff;
 }
 

@@ -1,6 +1,4 @@
-'use strict';
-
-export async function newFact() {
+async function newFact() {
     try {
       const response = await fetch('https://uselessfacts.jsph.pl/api/v2/facts/random');
       const data = await response.json();
@@ -11,5 +9,5 @@ export async function newFact() {
     }
   }
 
-  
+
 

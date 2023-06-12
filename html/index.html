@@ -24,7 +24,7 @@
 
         <div class="buttons">
           <button onclick="newFact()" id="new-fact">New fact</button>
-          <button onclick="saveFact()" id="add-favorite">
+          <button onclick="showPopup()" id="add-favorite">
             Add to your favorites<img class="icon-main"
               src="/img/purple-star-icon.svg"
               alt="icono estrella morada"
@@ -33,11 +33,25 @@
         </div>
       </section>
     </main>
-
+    <div id="popup">
+      <div class="popup-content">
+        <h2>Are you sure you want to save this fact?</h2>
+      <div class="modal-buttons">
+        <button onclick="closePopup()" id="closeButton">Close</button>
+        <button onclick="saveFact()" id="save-favorite">
+          Save fact<img class="icon-main"
+            src="/img/purple-star-icon.svg"
+            alt="icono estrella morada"
+          />
+        </button>
+      </div>
+      </div>
+    </div>
     <footer>
       <p class="copyright">Desarrollado por Marga Mbande y Jeaneth Sánchez</p>
     </footer>
     <script src="/src/newFact.js"></script>
     <script src="/src/saveFacts.js"></script>
+    <script src="/src/modal.js"></script>
   </body>
 </html>
