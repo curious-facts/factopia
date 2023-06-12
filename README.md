@@ -9,7 +9,7 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 4.  Para volver a la página de inicio, debes hacer click en el logotipo de nuestra organización, que se encuentra en el header arriba a mano izquierda.
 
 ## Figma
-![Prototipo Desktop ](/img/Desktop.JPEG)
+![Prototipo Desktop ](img/Desktop.JPEG)
 ![Prototipo Movil](/images/atomos.png)
 
 
