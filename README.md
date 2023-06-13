@@ -2,7 +2,7 @@
 
 Hemos creado una página web que llama a una API externa, que nos devuelve textos sobre hechos curiosos de manera aleatoria. 
 
-##Para el usuario/ funcionalidad
+## Para el usuario/ funcionalidad
 1.  Cada vez que se hace click en el botón "New Facts", aparecen frases con hechos curiosos de forma aleatoria.
 2.  Si deseas conservar alguno de las frases, puedes hacerlo con un click en el botón "Add to your favorites".
 3.  Puedes acceder a tus favoritos guardados mediante el botón "My favorites" que se encuentra en el header de la página de inicio.
@@ -54,10 +54,13 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 ## Figma
 
 ### Desktop
-![Prototipo Desktop](/img/Desktop.jpeg)
+![Prototipo Desktop](/img/Desktop1.jpg)
+![Prototipo Desktop](/img/Desktop3.jpg)
 
 ### Movil
-![Prototipo Movil](/img/movil.jpeg)
+![Prototipo Movil](/img/movil1.jpg)
+![Prototipo Movil](/img/Movil2.jpg)
+
 
  ## Herramientas utilizadas
  <h4 align="center">
