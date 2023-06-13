@@ -60,7 +60,7 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 
 ### Movil
 <img src ="img/movil-1.jpg" alt="prototipo movil home" width="300px">
-<img src ="img/Movil-2.jpg" alt="prototipo movil favorites" width="300px">
+<img src ="img/movil-2.jpg" alt="prototipo movil favorites" width="300px">
 ![Prototipo Movil](/img/Movil2.jpg)
 
 
