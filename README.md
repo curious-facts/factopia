@@ -54,11 +54,13 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 ## Figma
 
 ### Desktop
-![Prototipo Desktop](/img/Desktop1.jpg)
-![Prototipo Desktop](/img/Desktop3.jpg)
+<img src ="img/Desktop1.jpg" alt="prototipo desktop home">
+<img src ="img/Desktop2.jpg" alt="prototipo desktop favoritos" >
+
 
 ### Movil
-![Prototipo Movil](/img/movil1.jpg)
+<img src ="img/movil1.jpg" alt="prototipo movil home" width="100px">
+<img src ="img/movil2.jpg" alt="prototipo movil favorites" width="100px">
 ![Prototipo Movil](/img/Movil2.jpg)
 
 
