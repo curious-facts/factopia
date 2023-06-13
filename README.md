@@ -12,7 +12,7 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 
 
 
-##Código
+## Código
 
 ```
 
@@ -51,19 +51,15 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 
 
 
-##Figma
+## Figma
 
-###Desktop
+### Desktop
 ![Prototipo Desktop](/img/Desktop.jpeg)
 
-###Movil
+### Movil
 ![Prototipo Movil](/img/movil.jpeg)
 
-
-
-
-
- ##Herramientas utilizadas
+ ## Herramientas utilizadas
  <h4 align="center">
  ✔️  HTML 
 </h4>
@@ -85,8 +81,6 @@ Hemos creado una página web que llama a una API externa, que nos devuelve texto
 <h4 align="center">
 ✔️ Node
 </h4>
-
-
 
 
 ## Proyecto desarrollado por:
